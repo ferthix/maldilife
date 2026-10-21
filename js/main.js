@@ -1,4 +1,4 @@
-/* Maldilife scripts - patterns from W3Schools (responsive topnav, dropdown click, accordion, form validation) */
+/* Maldilife scripts - patterns reffered to  W3Schools (responsive topnav, dropdown click, accordion, form validation) */
 (function () {
   // Responsive topnav: toggle menu
   var burger = document.getElementById("burger"), menu = document.getElementById("menu");
